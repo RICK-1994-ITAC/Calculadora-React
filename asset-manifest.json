@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/RICK-1994-ITAC/Calculadora-React/static/js/main.7873a79a.js",
-    "static/media/cdnlogo.com_react (1).svg": "/RICK-1994-ITAC/Calculadora-React/static/media/cdnlogo.com_react (1).e68b35f4774979ae220b1d5d7b345b00.svg",
-    "index.html": "/RICK-1994-ITAC/Calculadora-React/index.html",
-    "main.7873a79a.js.map": "/RICK-1994-ITAC/Calculadora-React/static/js/main.7873a79a.js.map"
+    "main.js": "/Calculadora-React/static/js/main.b20c9d6b.js",
+    "static/media/cdnlogo.com_react (1).svg": "/Calculadora-React/static/media/cdnlogo.com_react (1).e68b35f4774979ae220b1d5d7b345b00.svg",
+    "index.html": "/Calculadora-React/index.html",
+    "main.b20c9d6b.js.map": "/Calculadora-React/static/js/main.b20c9d6b.js.map"
   },
   "entrypoints": [
-    "static/js/main.7873a79a.js"
+    "static/js/main.b20c9d6b.js"
   ]
 }
